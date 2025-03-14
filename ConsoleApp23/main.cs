@@ -21,7 +21,7 @@ class program
 
         Produto Guaraná = new Produto();
         Guaraná.NomedoProduto = "3 - Guaraná";
-        Guaraná.Preco = 6.00;
+        Guaraná.Preco = 7.00;
         produto.Add(Guaraná);
 
         Produto XBurger = new Produto();
